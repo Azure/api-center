@@ -8,7 +8,7 @@ This repository serves as a collaboration space between the API Center users and
 
 ## How to provide feedback
 
-To provide feedback, select the *Issues* tab above and search for existing issues to see if your feedback or bug report has already been submitted. If not, create a new issue, provide a clear and detailed description of the feedback or bug you encountered, and include applicable reproduction steps.
+To provide feedback, select the *Issues* tab above and search for existing issues to see if your feedback or bug report has already been submitted. If not, create a new issue and provide a clear and detailed description of your feedback or bug you encountered.
 
 ## Get support
 
