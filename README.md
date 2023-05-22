@@ -1,33 +1,21 @@
-# Project
+# Azure API Center Preview
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Microsoft Azure API Center is a new Azure service and a capability of the Azure API Management platform that enables tracking APIs in a centralized location for discovery, reuse, and governance. [Learn more about API Center](https://aka.ms/apicenter/preview/blog).
 
-As the maintainer of this project, please make a few updates:
+This repository serves as a collaboration space between the API Center users and the product team during the preview release. We encourage you to provide us with feedback, report bugs, and request features to help us improve the service and shape its roadmap.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+![APIs view in Azure API Center](media/readme-screenshot.png)
 
-## Contributing
+## How to provide feedback
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+To provide feedback, select the *Issues* tab above and search for existing issues to see if your feedback or bug report has already been submitted. If not, create a new issue, provide a clear and detailed description of the feedback or bug you encountered, and include applicable reproduction steps.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Get support
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+We are unable to provide product support within this repository. If you need assistance with using API Center, request support in the Azure portal.
 
-## Trademarks
+## Other resources
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+* [Contribution guidelines and policy](CONTRIBUTIONS.md)
+* [Security policy](SECURITY.md)
+* [Code of conduct policy](CODE_OF_CONDUCT.md)
