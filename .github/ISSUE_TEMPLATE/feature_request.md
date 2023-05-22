@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest a new capability
 title: ''
-labels: enhancement, question
+labels: Feature request, Untriaged
 assignees: ''
 
 ---
