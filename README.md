@@ -10,9 +10,11 @@ This repository serves as a collaboration space between the API Center users and
 
 To provide feedback, select the *Issues* tab above and search for existing issues to see if your feedback or bug report has already been submitted. If not, create a new issue and provide a clear and detailed description of your feedback or bug you encountered.
 
+If you prefer to keep the communication private, you can contact the API Center team directly at apicenterpreview@microsoft.com.
+
 ## Get support
 
-We are unable to provide product support within this repository. If you need assistance with using API Center, request support in the Azure portal.
+During limited access preview, we are providing product support through this GitHub repository.
 
 ## Other resources
 
