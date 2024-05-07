@@ -12,7 +12,7 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 
 - **Improve API producer and consumer developer experience** with our Visual Studio Code extension.
 
-[Learn more about API Center](https://aka.ms/apicenter/blogpost).
+[Learn more about API Center](https://aka.ms/apicenter/blogpost)
 
 
 ![APIs view in Azure API Center](media/readme-screenshot.png)
