@@ -19,24 +19,25 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 
 ## Getting Started Resources
 
-Build a Complete & Current API Inventory:
+<u>Build a Complete & Current API Inventory:</u>
 - Video: [How to Import APIs from Azure API Management to Azure API Center using CLI](https://youtu.be/SuGkhuBUV5k?si=M0VrEjnq4K6qBBSz)
 - Quickstart: [Create your API center](https://learn.microsoft.com/azure/api-center/set-up-api-center)
 - Tutorial: [Register APIs in your API inventory](https://learn.microsoft.com/azure/api-center/register-apis)
 
-At-Scale API Governance:
+<u>At-Scale API Governance:</u>
 - Video: [Mastering API Governance with Azure API Center](https://youtu.be/m0XATQaVhxA?si=oDfFDPE9hDPbrczP)
 - Tutorial: [Enable linting and analysis for API governance in your API center](https://learn.microsoft.com/azure/api-center/enable-api-analysis-linting)
 
-Streamline Your Development: Improving Your API Developer Experience:
+<u>Streamline Your Development - Improving Your API Developer Experience:</u>
 - Video: [Introducing the VS Code extension for Azure API Center](https://youtu.be/62X0NALedCc) 
 - Documentation: [Get started with the Azure API Center extension for Visual Studio Code](https://learn.microsoft.com/azure/api-center/use-vscode-extension)
 
-Elevating API Discovery with the API Center Portal:
+<u>Elevating API Discovery with the API Center Portal:</u>
 - Documentation [Self-host your API Center portal](https://learn.microsoft.com/azure/api-center/enable-api-center-portal)
 - GitHub Repo [APICenter Portal Starter](https://github.com/Azure/APICenter-Portal-Starter)
 
-GitHub Example Repo: [API Center ❤️ all APIs](https://github.com/Azure-Samples/universal-api-center)
+GitHub Example Repo: 
+- [API Center ❤️ all APIs](https://github.com/Azure-Samples/universal-api-center)
 
 
 ## How to provide feedback
