@@ -1,20 +1,41 @@
-# Azure API Center Preview
+# Azure API Center
 
-Microsoft Azure API Center is a new Azure service and a capability of the Azure API Management platform that enables tracking APIs in a centralized location for discovery, reuse, and governance. [Learn more about API Center](https://aka.ms/apicenter/preview/blog).
+In today’s API-first digital ecosystem, organizations are challenged with an ever-expanding network of APIs. This proliferation - known as API sprawl - poses significant challenges in API governance, security, compliance, and reuse. Without a centralized inventory, APIs can become isolated, leading to poor API reuse, lack of alignment with organizational API design and organizational processes, as well as increased vulnerability to security breaches.
 
-This repository serves as a collaboration space between the API Center users and the product team during the preview release. We encourage you to provide us with feedback, report bugs, and request features to help us improve the service and shape its roadmap.
+**Azure API Center** provides a centralized API inventory for seamless API discovery, reuse, and governance regardless of API type, lifecycle stage, or deployment location. Azure API Center addresses a critical need for centralized API inventory, ensuring that the extraordinary growth of APIs enhances rather than hinders the development process:
+
+- Build a complete and current catalog of all APIs - regardless of their type, stage in their lifecycle, or deployment location - to enable API discovery, consumption, and governance.
+
+- Enable API best practices at-scale and enforce API design rules across your organization to empower API developers to create APIs in line with these standards, ensuring quality and uniformity across all APIs produced.
+
+- Foster reusability of your APIs by enabling API consumers to quickly discover and consume the right APIs.
+
+- Improve API producer and consumer developer experience with our Visual Studio Code extension.
+
+[Learn more about API Center](https://aka.ms/apicenter/blogpost).
+
 
 ![APIs view in Azure API Center](media/readme-screenshot.png)
 
+## Getting Started Resources
+
+- Build a Complete & Current API Inventory:
+    - Video: [How to Import APIs from Azure API Management to Azure API Center using CLI](https://youtu.be/SuGkhuBUV5k?si=M0VrEjnq4K6qBBSz)
+    - Quickstart: [Create your API center](https://learn.microsoft.com/azure/api-center/set-up-api-center)
+    - Tutorial: [Register APIs in your API inventory](https://learn.microsoft.com/azure/api-center/register-apis)
+- At-Scale API Governance:
+    - Video: [Mastering API Governance with Azure API Center](https://youtu.be/m0XATQaVhxA?si=oDfFDPE9hDPbrczP)
+    - Tutorial: [Enable linting and analysis for API governance in your API center](https://learn.microsoft.com/azure/api-center/enable-api-analysis-linting)
+- GitHub Example Repo: [API Center ❤️ all APIs](https://github.com/Azure-Samples/universal-api-center)
+
+
 ## How to provide feedback
 
-To provide feedback, select the *Issues* tab above and search for existing issues to see if your feedback or bug report has already been submitted. If not, create a new issue and provide a clear and detailed description of your feedback or bug you encountered.
+Your feedback is invaluable to us, and we encourage you to share your thoughts and suggestions in the repository's **Issues** section. *Note: Please search for existing issues to see if your feedback or bug report has already been submitted.* 
 
-If you prefer to keep the communication private, you can contact the API Center team directly at apicenterpreview@microsoft.com.
+We’ll be keeping a close eye on your input to continuously improve. While we’re dedicated to monitoring these issues, please note that this channel is not part of our Microsoft Azure Service Support.
 
-## Get support
-
-During limited access preview, we are providing product support through this GitHub repository.
+If you prefer to keep the communication private, you can contact the API Center product team directly at apicenter@microsoft.com.
 
 ## Other resources
 
