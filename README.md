@@ -4,13 +4,13 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 
 **Azure API Center** provides a centralized API inventory for seamless API discovery, reuse, and governance regardless of API type, lifecycle stage, or deployment location. Azure API Center addresses a critical need for centralized API inventory, ensuring that the extraordinary growth of APIs enhances rather than hinders the development process:
 
-- Build a complete and current catalog of all APIs - regardless of their type, stage in their lifecycle, or deployment location - to enable API discovery, consumption, and governance.
+- **Build a complete and current catalog of all APIs** - regardless of their type, stage in their lifecycle, or deployment location - to enable API discovery, consumption, and governance.
 
-- Enable API best practices at-scale and enforce API design rules across your organization to empower API developers to create APIs in line with these standards, ensuring quality and uniformity across all APIs produced.
+- Enable API best practices at-scale and **enforce API design rules** across your organization to empower API developers to create APIs in line with these standards, ensuring quality and uniformity across all APIs produced.
 
-- Foster reusability of your APIs by enabling API consumers to quickly discover and consume the right APIs.
+- **Foster reusability** of your APIs by enabling API consumers to quickly discover and consume the right APIs.
 
-- Improve API producer and consumer developer experience with our Visual Studio Code extension.
+- **Improve API producer and consumer developer experience** with our Visual Studio Code extension.
 
 [Learn more about API Center](https://aka.ms/apicenter/blogpost).
 
@@ -36,8 +36,8 @@ Elevating API Discovery with the API Center Portal:
 - Documentation [Self-host your API Center portal](https://learn.microsoft.com/azure/api-center/enable-api-center-portal)
 - GitHub Repo [APICenter Portal Starter](https://github.com/Azure/APICenter-Portal-Starter)
 
-GitHub Example Repo: 
-- [API Center ❤️ all APIs](https://github.com/Azure-Samples/universal-api-center)
+GitHub Example Repos: 
+- GitHub Repo: [API Center ❤️ all APIs](https://github.com/Azure-Samples/universal-api-center)
 
 
 ## How to provide feedback
