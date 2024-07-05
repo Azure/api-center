@@ -39,7 +39,7 @@ Elevating API Discovery with the API Center Portal:
 GitHub Example Repos: 
 - GitHub Repo: [API Center ❤️ all APIs](https://github.com/Azure-Samples/universal-api-center)
 
-## API Center Roadmap
+## Roadmap
 
 ![APIs view in Azure API Center](media/roadmap/roadmap07052024.png)
 
