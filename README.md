@@ -41,7 +41,7 @@ GitHub Example Repos:
 
 ## Roadmap
 
-![APIs view in Azure API Center](media/roadmap/roadmap07052024.png)
+![APIs view in Azure API Center](media/roadmap/roadmap07082024.png)
 
 ## How to provide feedback
 
