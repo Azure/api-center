@@ -19,9 +19,13 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 
 ## Getting Started Resources
 
+What is Azure API Center?
+- Video: [Exploring Azure API Center: From VS Code to the Azure Portal](https://youtu.be/w9Sr7adTPPI?si=s-vWG5VBKETuxD5X)
+
 Build a Complete & Current API Inventory:
-- Video: [How to Import APIs from Azure API Management to Azure API Center using CLI](https://youtu.be/SuGkhuBUV5k?si=M0VrEjnq4K6qBBSz)
 - Quickstart: [Create your API center](https://learn.microsoft.com/azure/api-center/set-up-api-center)
+- Video: [Automate API Registration with GitHub Actions in Azure API Center](https://youtu.be/DviYjNVJ-cw?si=h0EBUWEh3uuMDgOL)
+- Video: [How to Import APIs from Azure API Management to Azure API Center using CLI](https://youtu.be/SuGkhuBUV5k?si=M0VrEjnq4K6qBBSz)
 - Tutorial: [Register APIs in your API inventory](https://learn.microsoft.com/azure/api-center/register-apis)
 
 At-Scale API Governance:
