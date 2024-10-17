@@ -65,45 +65,45 @@ GitHub Example Repos:
     - [x] **APIM / APIC Sync**: Gated Preview.
     - [ ] **Import from AWS**: Research phase.
     - [ ] **Multiple spec support**: Research phase.
-- <u>**Governance**</u>
+- <ins>**Governance**</ins>
     - [x] **Managed API Anlayis**: Public Preview.
     - [x] **API Anlayis Dashboard**: Public Preview.
     - [ ] **Increase linting limit for Standard**: In development.
     - [ ] **Execution History - API details**: In development.
     - [ ] **VS Code - compliant openapi spec generation**: In development.
     - [ ] **VS Code - Copilot for Azure integration**: In development.
-- <u>**Discover & Consume**</u>
+- <ins>**Discover & Consume**</ins>
     - [ ] **From APIC deployment to APIM**: Research phase.
     - [ ] **API Center Portal hosting support evaluation**: Research phase.
 
 ## Next
-- <u>**Inventory**</u>
+- <ins>**Inventory**</ins>
     - [ ] Multiple spec support
     - [ ] Azure Functions integration
     - [ ] Import from Apigee
-- **Governance**
+- <ins>**Governance**</ins>
     - [ ] Enable search and filtering API Analysis
     - [ ] Managed Linting - AsyncAPI support
     - [ ] Download API Analysis Report
-- **Discover & Consume**
+- <ins>**Discover & Consume**</ins>
     - [ ] API's visibility concept via data plane
     - [ ] Filtering and searching based on metadata in APIC Portal
     - [ ] API Center Portal Starter-Kit improvements - one-click deployment
 
 ## Later
-- **Inventory**
-    - [ ] **App Service integration**
-    - [ ] **Source control: GitHub repository integration**
-- **Governance**
-    - [ ] **Managed linting - API governance profiles**
-    - [ ] **Missing metadata dashboard**
-    - [ ] **Missing API spec dashboard**
-    - [ ] **API health check**
-    - [ ] **Breaking change detection**
-- **Discover & Consume**
-    - [ ] **Get API Access**
-    - [ ] **Semantic search**
-    - [ ] **Backstage plugin**
+- <ins>**Inventory**</ins>
+    - [ ] App Service integration
+    - [ ] Source control: GitHub repository integration
+- <ins>**Governance**</ins>
+    - [ ] Managed linting - API governance profiles
+    - [ ] Missing metadata dashboard
+    - [ ] Missing API spec dashboard
+    - [ ] API health check
+    - [ ] Breaking change detection
+- <ins>**Discover & Consume**</ins>
+    - [ ] Get API Access
+    - [ ] Semantic search
+    - [ ] Backstage plugin
 
 
 ## How to provide feedback
