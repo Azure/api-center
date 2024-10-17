@@ -4,11 +4,11 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 
 ## Content Overview
 
-:bulb: [What is Azure API Center?](#azure-api-center)
-:arrow_forward: [Getting Started Resources](#getting-started-resources)
-:dart: [Roadmap](#roadmap)
-:incoming_envelope: [How to provide feedback](#how-to-provide-feedback)
-:bookmark_tabs: [Other resources](#other-resources)
+- :bulb: [What is Azure API Center?](#azure-api-center)
+- :arrow_forward: [Getting Started Resources](#getting-started-resources)
+- :dart: [Roadmap](#roadmap)
+- :incoming_envelope: [How to provide feedback](#how-to-provide-feedback)
+- :bookmark_tabs: [Other resources](#other-resources)
 
 ## What is Azure API Center?
 
@@ -57,11 +57,9 @@ GitHub Example Repos:
 
 ![APIs view in Azure API Center](media/roadmap/roadmap09122924.png)
 
-Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
 
-> **Note**: This is an important note.
 
-> :memo: **Note**: Remember to back up your data regularly.
+> :memo: **Note**: Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
 
 
 ## How to provide feedback
