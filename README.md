@@ -2,6 +2,16 @@
 
 In today’s API-first digital ecosystem, organizations are challenged with an ever-expanding network of APIs. This proliferation - known as API sprawl - poses significant challenges in API governance, security, compliance, and reuse. Without a centralized inventory, APIs can become isolated, leading to poor API reuse, lack of alignment with organizational API design and organizational processes, as well as increased vulnerability to security breaches.
 
+## Content Overview
+
+- :bulb: [What is Azure API Center?](#azure-api-center)
+- :arrow_forward: [Getting Started Resources](#getting-started-resources)
+- :dart: [Roadmap](#roadmap)
+- :warning: [How to provide feedback](#how-to-provide-feedback)
+- :bookmark_tabs: [Other resources](#other-resources)
+
+## What is Azure API Center?
+
 **Azure API Center** provides a centralized API inventory for seamless API discovery, reuse, and governance regardless of API type, lifecycle stage, or deployment location. Azure API Center addresses a critical need for centralized API inventory, ensuring that the extraordinary growth of APIs enhances rather than hinders the development process:
 
 - **Build a complete and current catalog of all APIs** - regardless of their type, stage in their lifecycle, or deployment location - to enable API discovery, consumption, and governance.
@@ -19,33 +29,86 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 
 ## Getting Started Resources
 
-What is Azure API Center?
+**What is Azure API Center?**
 - Video: [Exploring Azure API Center: From VS Code to the Azure Portal](https://youtu.be/w9Sr7adTPPI?si=s-vWG5VBKETuxD5X)
+- Blog: [Navigating Your API Ecosystem - Example Scenarios for Azure API Center and API Management](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/the-rising-significance-of-apis-azure-api-management-amp-api/ba-p/4181292)
 
-Build a Complete & Current API Inventory:
+**Build a Complete & Current API Inventory:**
 - Quickstart: [Create your API center](https://learn.microsoft.com/azure/api-center/set-up-api-center)
 - Video: [Automate API Registration with GitHub Actions in Azure API Center](https://youtu.be/DviYjNVJ-cw?si=h0EBUWEh3uuMDgOL)
 - Video: [How to Import APIs from Azure API Management to Azure API Center using CLI](https://youtu.be/SuGkhuBUV5k?si=M0VrEjnq4K6qBBSz)
 - Tutorial: [Register APIs in your API inventory](https://learn.microsoft.com/azure/api-center/register-apis)
 
-API Governance - Design time governance:
+**API Governance - Design time governance:**
 - Video: [Mastering API Governance with Azure API Center](https://youtu.be/m0XATQaVhxA?si=oDfFDPE9hDPbrczP)
+- Video: [Mastering API Governance with Azure API Center](https://youtu.be/m0XATQaVhxA?si=oDfFDPE9hDPbrczP)
+- Unlock the Future of API Compliance with AI and Azure API Center:
+    - [Video](https://youtu.be/G-3Jdi2vTiE?si=DTL4SG7PXgys98m1)
+    - [Blog](https://aka.ms/apic/ai)
 - Tutorial: [Enable linting and analysis for API governance in your API center](https://learn.microsoft.com/azure/api-center/enable-api-analysis-linting)
 
-API Discovery & Consumption - Get started with our VS Code extension:
+**API Discovery & Consumption - Get started with our VS Code extension:**
 - Video: [Introducing the VS Code extension for Azure API Center](https://youtu.be/62X0NALedCc) 
 - Documentation: [Get started with the Azure API Center extension for Visual Studio Code](https://learn.microsoft.com/azure/api-center/use-vscode-extension)
 
-Elevating API Discovery with a self-hosted API Center Portal:
+**Elevating API Discovery with a self-hosted API Center Portal:**
 - Documentation [Self-host your API Center portal](https://learn.microsoft.com/azure/api-center/enable-api-center-portal)
 - GitHub Repo [APICenter Portal Starter](https://github.com/Azure/APICenter-Portal-Starter)
 
-GitHub Example Repos: 
+**GitHub Example Repos:**
 - GitHub Repo: [API Center ❤️ all APIs](https://github.com/Azure-Samples/universal-api-center)
 
 ## Roadmap
 
-![APIs view in Azure API Center](media/roadmap/roadmap09122924.png)
+![APIs view in Azure API Center](media/roadmap/roadmap10-2024.png)
+
+> :memo: **Note**: Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
+
+## Now
+- <ins>**Inventory**</ins>
+    - [x] :white_check_mark: **GitHub Actions support**: Released.
+    - [x] :white_check_mark: **APIM / APIC Sync**: Gated Preview.
+    - [ ] **Import from AWS**: Research phase.
+    - [ ] **Multiple spec support**: Research phase.
+- <ins>**Governance**</ins>
+    - [x] :white_check_mark: **Managed API Analysis**: Public Preview.
+    - [x] :white_check_mark: **API Analysis Dashboard**: Public Preview.
+    - [ ] **Increase linting limit for Standard**: In development.
+    - [ ] **Execution History - API details**: In development.
+    - [ ] **VS Code - Compliant openapi spec generation**: In development.
+    - [ ] **VS Code - Copilot for Azure integration**: In development.
+- <ins>**Discover & Consume**</ins>
+    - [ ] **APIC to APIM deployment**: Research phase.
+    - [ ] **API Center Portal hosting support evaluation**: Research phase.
+
+## Next
+- <ins>**Inventory**</ins>
+    - [ ] Azure Functions integration
+    - [ ] Import from Apigee
+- <ins>**Governance**</ins>
+    - [ ] Enable search and filtering API Analysis
+    - [ ] Managed Linting - AsyncAPI support
+    - [ ] Download API Analysis Report
+- <ins>**Discover & Consume**</ins>
+    - [ ] API's visibility concept via data plane
+    - [ ] Filtering and searching based on metadata in APIC Portal
+    - [ ] API Center Portal Starter-Kit improvements - one-click deployment
+
+## Later
+- <ins>**Inventory**</ins>
+    - [ ] App Service integration
+    - [ ] Source control: GitHub repository integration
+- <ins>**Governance**</ins>
+    - [ ] Breaking change detection
+    - [ ] Managed linting - API governance profiles
+    - [ ] Missing metadata dashboard
+    - [ ] Missing API spec dashboard
+    - [ ] API health check
+- <ins>**Discover & Consume**</ins>
+    - [ ] Get API Access
+    - [ ] Semantic search
+    - [ ] Backstage plugin
+
 
 ## How to provide feedback
 
