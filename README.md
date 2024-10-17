@@ -57,9 +57,10 @@ GitHub Example Repos:
 
 ![APIs view in Azure API Center](media/roadmap/roadmap09122924.png)
 
+> :memo: **Note**: Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
 
 ## Now
-- <u>**Inventory**</u>
+- <ins>**Inventory**</ins>
     - [x] **GitHub Actions support**: Released.
     - [x] **APIM / APIC Sync**: Gated Preview.
     - [ ] **Import from AWS**: Research phase.
@@ -103,8 +104,6 @@ GitHub Example Repos:
     - [ ] **Get API Access**
     - [ ] **Semantic search**
     - [ ] **Backstage plugin**
-
-> :memo: **Note**: Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
 
 
 ## How to provide feedback
