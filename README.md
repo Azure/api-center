@@ -58,26 +58,38 @@ GitHub Example Repos:
 ![APIs view in Azure API Center](media/roadmap/roadmap09122924.png)
 
 
-- [x] :white_check_mark: Complete initial setup
-- [ ] :hourglass_flowing_sand: Develop main features
-- [ ] :bug: Fix reported bugs
-- [ ] :rocket: Prepare for launch
-
-
 ### Now
-- [x] **Feature A**: In development.
-- [ ] **Feature B**: In testing.
+- **Inventory**
+    - [x] **Inventory**: In development.
+    - [ ] **Feature B**: In testing.
+- **Governance**
+    - [x] **Inventory**: In development.
+    - [ ] **Feature B**: In testing.
+- **Discover & Consume**
+    - [x] **Inventory**: In development.
+    - [ ] **Feature B**: In testing.
 
 ### Next
-- **Feature C**: Planned for next sprint.
-- **Feature D**: Design phase.
+- **Inventory**
+    - [x] **Inventory**: In development.
+    - [ ] **Feature B**: In testing.
+- **Governance**
+    - [x] **Inventory**: In development.
+    - [ ] **Feature B**: In testing.
+- **Discover & Consume**
+    - [x] **Inventory**: In development.
+    - [ ] **Feature B**: In testing.
 
 ### Later
-- **Feature E**: Backlog.
-- **Feature F**: Research phase.
-
-### Done
-
+- **Inventory**
+    - [x] **Inventory**: In development.
+    - [ ] **Feature B**: In testing.
+- **Governance**
+    - [x] **Inventory**: In development.
+    - [ ] **Feature B**: In testing.
+- **Discover & Consume**
+    - [x] **Inventory**: In development.
+    - [ ] **Feature B**: In testing.
 
 
 > :memo: **Note**: Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
