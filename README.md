@@ -7,7 +7,7 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 - :bulb: [What is Azure API Center?](#azure-api-center)
 - :arrow_forward: [Getting Started Resources](#getting-started-resources)
 - :dart: [Roadmap](#roadmap)
-- :incoming_envelope: [How to provide feedback](#how-to-provide-feedback)
+- :warning: [How to provide feedback](#how-to-provide-feedback)
 - :bookmark_tabs: [Other resources](#other-resources)
 
 ## What is Azure API Center?
@@ -56,6 +56,25 @@ GitHub Example Repos:
 ## Roadmap
 
 ![APIs view in Azure API Center](media/roadmap/roadmap09122924.png)
+
+
+- [x] :white_check_mark: Complete initial setup
+- [ ] :hourglass_flowing_sand: Develop main features
+- [ ] :bug: Fix reported bugs
+- [ ] :rocket: Prepare for launch
+
+
+## Now
+- **Feature A**: In development.
+- **Feature B**: In testing.
+
+## Next
+- **Feature C**: Planned for next sprint.
+- **Feature D**: Design phase.
+
+## Later
+- **Feature E**: Backlog.
+- **Feature F**: Research phase.
 
 
 
