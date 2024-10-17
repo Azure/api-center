@@ -58,38 +58,38 @@ GitHub Example Repos:
 ![APIs view in Azure API Center](media/roadmap/roadmap09122924.png)
 
 
-### Now
-- **Inventory**
+## Now
+- <u>**Inventory**</u>
     - [x] **GitHub Actions support**: Released.
     - [x] **APIM / APIC Sync**: Gated Preview.
     - [ ] **Import from AWS**: Research phase.
     - [ ] **Multiple spec support**: Research phase.
-- **Governance**
+- <u>**Governance**</u>
     - [x] **Managed API Anlayis**: Public Preview.
     - [x] **API Anlayis Dashboard**: Public Preview.
     - [ ] **Increase linting limit for Standard**: In development.
     - [ ] **Execution History - API details**: In development.
     - [ ] **VS Code - compliant openapi spec generation**: In development.
     - [ ] **VS Code - Copilot for Azure integration**: In development.
-- **Discover & Consume**
+- <u>**Discover & Consume**</u>
     - [ ] **From APIC deployment to APIM**: Research phase.
     - [ ] **API Center Portal hosting support evaluation**: Research phase.
 
-### Next
-- **Inventory**
-    - [ ] **Multiple spec support**
-    - [ ] **Azure Functions integration**
-    - [ ] **Import from Apigee**
+## Next
+- <u>**Inventory**</u>
+    - [ ] Multiple spec support
+    - [ ] Azure Functions integration
+    - [ ] Import from Apigee
 - **Governance**
-    - [ ] **Enable search and filtering API Analysis**
-    - [ ] **Managed Linting - AsyncAPI support**
-    - [ ] **Download API Analysis Report**
+    - [ ] Enable search and filtering API Analysis
+    - [ ] Managed Linting - AsyncAPI support
+    - [ ] Download API Analysis Report
 - **Discover & Consume**
-    - [ ] **API's visibility concept via data plane**
-    - [ ] **Filtering and searching based on metadata in APIC Portal**
-    - [ ] **API Center Portal Starter-Kit improvements - one-click deployment**
+    - [ ] API's visibility concept via data plane
+    - [ ] Filtering and searching based on metadata in APIC Portal
+    - [ ] API Center Portal Starter-Kit improvements - one-click deployment
 
-### Later
+## Later
 - **Inventory**
     - [ ] **App Service integration**
     - [ ] **Source control: GitHub repository integration**
@@ -98,7 +98,7 @@ GitHub Example Repos:
     - [ ] **Missing metadata dashboard**
     - [ ] **Missing API spec dashboard**
     - [ ] **API health check**
-    - [ ] **Breacking change detection**
+    - [ ] **Breaking change detection**
 - **Discover & Consume**
     - [ ] **Get API Access**
     - [ ] **Semantic search**
