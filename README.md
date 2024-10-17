@@ -61,13 +61,13 @@ GitHub Example Repos:
 
 ## Now
 - <ins>**Inventory**</ins>
-    - [x] **GitHub Actions support**: Released.
-    - [x] **APIM / APIC Sync**: Gated Preview.
+    - [x] :white_check_mark: **GitHub Actions support**: Released.
+    - [x] :white_check_mark: **APIM / APIC Sync**: Gated Preview.
     - [ ] **Import from AWS**: Research phase.
     - [ ] **Multiple spec support**: Research phase.
 - <ins>**Governance**</ins>
-    - [x] **Managed API Anlayis**: Public Preview.
-    - [x] **API Anlayis Dashboard**: Public Preview.
+    - [x] :white_check_mark: **Managed API Anlayis**: Public Preview.
+    - [x] :white_check_mark: **API Anlayis Dashboard**: Public Preview.
     - [ ] **Increase linting limit for Standard**: In development.
     - [ ] **Execution History - API details**: In development.
     - [ ] **VS Code - compliant openapi spec generation**: In development.
