@@ -55,7 +55,7 @@ GitHub Example Repos:
 
 ## Roadmap
 
-![APIs view in Azure API Center](media/roadmap/roadmap09122924.png)
+![APIs view in Azure API Center](media/roadmap/roadmap10-2024.png)
 
 > :memo: **Note**: Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
 
