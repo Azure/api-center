@@ -64,17 +64,19 @@ GitHub Example Repos:
 - [ ] :rocket: Prepare for launch
 
 
-## Now
-- **Feature A**: In development.
-- **Feature B**: In testing.
+### Now
+- [x] **Feature A**: In development.
+- [ ] **Feature B**: In testing.
 
-## Next
+### Next
 - **Feature C**: Planned for next sprint.
 - **Feature D**: Design phase.
 
-## Later
+### Later
 - **Feature E**: Backlog.
 - **Feature F**: Research phase.
+
+### Done
 
 
 
