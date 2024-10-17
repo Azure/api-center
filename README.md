@@ -66,19 +66,18 @@ GitHub Example Repos:
     - [ ] **Import from AWS**: Research phase.
     - [ ] **Multiple spec support**: Research phase.
 - <ins>**Governance**</ins>
-    - [x] :white_check_mark: **Managed API Anlayis**: Public Preview.
-    - [x] :white_check_mark: **API Anlayis Dashboard**: Public Preview.
+    - [x] :white_check_mark: **Managed API Analysis**: Public Preview.
+    - [x] :white_check_mark: **API Analysis Dashboard**: Public Preview.
     - [ ] **Increase linting limit for Standard**: In development.
     - [ ] **Execution History - API details**: In development.
-    - [ ] **VS Code - compliant openapi spec generation**: In development.
+    - [ ] **VS Code - Compliant openapi spec generation**: In development.
     - [ ] **VS Code - Copilot for Azure integration**: In development.
 - <ins>**Discover & Consume**</ins>
-    - [ ] **From APIC deployment to APIM**: Research phase.
+    - [ ] **APIC to APIM deployment**: Research phase.
     - [ ] **API Center Portal hosting support evaluation**: Research phase.
 
 ## Next
 - <ins>**Inventory**</ins>
-    - [ ] Multiple spec support
     - [ ] Azure Functions integration
     - [ ] Import from Apigee
 - <ins>**Governance**</ins>
@@ -95,11 +94,11 @@ GitHub Example Repos:
     - [ ] App Service integration
     - [ ] Source control: GitHub repository integration
 - <ins>**Governance**</ins>
+    - [ ] Breaking change detection
     - [ ] Managed linting - API governance profiles
     - [ ] Missing metadata dashboard
     - [ ] Missing API spec dashboard
     - [ ] API health check
-    - [ ] Breaking change detection
 - <ins>**Discover & Consume**</ins>
     - [ ] Get API Access
     - [ ] Semantic search
