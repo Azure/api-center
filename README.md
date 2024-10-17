@@ -31,6 +31,7 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 
 **What is Azure API Center?**
 - Video: [Exploring Azure API Center: From VS Code to the Azure Portal](https://youtu.be/w9Sr7adTPPI?si=s-vWG5VBKETuxD5X)
+- Blog: [Navigating Your API Ecosystem - Example Scenarios for Azure API Center and API Management](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/the-rising-significance-of-apis-azure-api-management-amp-api/ba-p/4181292)
 
 **Build a Complete & Current API Inventory:**
 - Quickstart: [Create your API center](https://learn.microsoft.com/azure/api-center/set-up-api-center)
@@ -42,8 +43,8 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 - Video: [Mastering API Governance with Azure API Center](https://youtu.be/m0XATQaVhxA?si=oDfFDPE9hDPbrczP)
 - Video: [Mastering API Governance with Azure API Center](https://youtu.be/m0XATQaVhxA?si=oDfFDPE9hDPbrczP)
 - Unlock the Future of API Compliance with AI and Azure API Center:
-    - Video: [aka.ms/apic/ai-video](https://youtu.be/G-3Jdi2vTiE?si=DTL4SG7PXgys98m1)
-    - Blog: [aka.ms/apic/ai-blog](https://aka.ms/apic/ai)
+    - [Video](https://youtu.be/G-3Jdi2vTiE?si=DTL4SG7PXgys98m1)
+    - [Blog](https://aka.ms/apic/ai)
 - Tutorial: [Enable linting and analysis for API governance in your API center](https://learn.microsoft.com/azure/api-center/enable-api-analysis-linting)
 
 **API Discovery & Consumption - Get started with our VS Code extension:**
