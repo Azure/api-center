@@ -60,37 +60,49 @@ GitHub Example Repos:
 
 ### Now
 - **Inventory**
-    - [x] **Inventory**: In development.
-    - [ ] **Feature B**: In testing.
+    - [x] **GitHub Actions support**: Released.
+    - [x] **APIM / APIC Sync**: Gated Preview.
+    - [ ] **Import from AWS**: Research phase.
+    - [ ] **Multiple spec support**: Research phase.
 - **Governance**
-    - [x] **Inventory**: In development.
-    - [ ] **Feature B**: In testing.
+    - [x] **Managed API Anlayis**: Public Preview.
+    - [x] **API Anlayis Dashboard**: Public Preview.
+    - [ ] **Increase linting limit for Standard**: In development.
+    - [ ] **Execution History - API details**: In development.
+    - [ ] **VS Code - compliant openapi spec generation**: In development.
+    - [ ] **VS Code - Copilot for Azure integration**: In development.
 - **Discover & Consume**
-    - [x] **Inventory**: In development.
-    - [ ] **Feature B**: In testing.
+    - [ ] **From APIC deployment to APIM**: Research phase.
+    - [ ] **API Center Portal hosting support evaluation**: Research phase.
 
 ### Next
 - **Inventory**
-    - [x] **Inventory**: In development.
-    - [ ] **Feature B**: In testing.
+    - [ ] **Multiple spec support**
+    - [ ] **Azure Functions integration**
+    - [ ] **Import from Apigee**
 - **Governance**
-    - [x] **Inventory**: In development.
-    - [ ] **Feature B**: In testing.
+    - [ ] **Enable search and filtering API Analysis**
+    - [ ] **Managed Linting - AsyncAPI support**
+    - [ ] **Download API Analysis Report**
 - **Discover & Consume**
-    - [x] **Inventory**: In development.
-    - [ ] **Feature B**: In testing.
+    - [ ] **API's visibility concept via data plane**
+    - [ ] **Filtering and searching based on metadata in APIC Portal**
+    - [ ] **API Center Portal Starter-Kit improvements - one-click deployment**
 
 ### Later
 - **Inventory**
-    - [x] **Inventory**: In development.
-    - [ ] **Feature B**: In testing.
+    - [ ] **App Service integration**
+    - [ ] **Source control: GitHub repository integration**
 - **Governance**
-    - [x] **Inventory**: In development.
-    - [ ] **Feature B**: In testing.
+    - [ ] **Managed linting - API governance profiles**
+    - [ ] **Missing metadata dashboard**
+    - [ ] **Missing API spec dashboard**
+    - [ ] **API health check**
+    - [ ] **Breacking change detection**
 - **Discover & Consume**
-    - [x] **Inventory**: In development.
-    - [ ] **Feature B**: In testing.
-
+    - [ ] **Get API Access**
+    - [ ] **Semantic search**
+    - [ ] **Backstage plugin**
 
 > :memo: **Note**: Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
 
