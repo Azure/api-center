@@ -36,16 +36,17 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 **Build a Complete & Current API Inventory:**
 - Quickstart: [Create your API center](https://learn.microsoft.com/azure/api-center/set-up-api-center)
 - Video: [Automate API Registration with GitHub Actions in Azure API Center](https://youtu.be/DviYjNVJ-cw?si=h0EBUWEh3uuMDgOL)
-- Video: [How to Import APIs from Azure API Management to Azure API Center using CLI](https://youtu.be/SuGkhuBUV5k?si=M0VrEjnq4K6qBBSz)
+- Tutorial: [Integrate APIs from Azure API Management](https://learn.microsoft.com/azure/api-center/synchronize-api-management-apis)
+- Video: [Integrate APIs from Amazon API Gateway](https://youtu.be/9vhGOxKD2ME?si=0fcQyJb47L933JNb)
 - Tutorial: [Register APIs in your API inventory](https://learn.microsoft.com/azure/api-center/register-apis)
 
 **API Governance - Design time governance:**
 - Video: [Mastering API Governance with Azure API Center](https://youtu.be/m0XATQaVhxA?si=oDfFDPE9hDPbrczP)
-- Video: [Mastering API Governance with Azure API Center](https://youtu.be/m0XATQaVhxA?si=oDfFDPE9hDPbrczP)
+- Video: [API design-first with Azure API Center and GitHub Copilot for Azure](https://youtu.be/MSYS4bLYews?si=3PFAZnwA1rKYwLa-)
 - Unlock the Future of API Compliance with AI and Azure API Center:
     - [Video](https://youtu.be/G-3Jdi2vTiE?si=DTL4SG7PXgys98m1)
     - [Blog](https://aka.ms/apic/ai)
-- Tutorial: [Enable linting and analysis for API governance in your API center](https://learn.microsoft.com/azure/api-center/enable-api-analysis-linting)
+- Tutorial: [Enable linting and analysis for API governance in your API Center](https://learn.microsoft.com/azure/api-center/enable-api-analysis-linting)
 
 **API Discovery & Consumption - Get started with our VS Code extension:**
 - Video: [Introducing the VS Code extension for Azure API Center](https://youtu.be/62X0NALedCc) 
@@ -60,54 +61,59 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 
 ## Roadmap
 
-![APIs view in Azure API Center](media/roadmap/roadmap10-2024.png)
+![APIs view in Azure API Center](media/roadmap/roadmap01232025.png)
 
 > :memo: **Note**: Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
 
 ## Now
 - <ins>**Inventory**</ins>
     - [x] :white_check_mark: **GitHub Actions support**: Released.
-    - [x] :white_check_mark: **APIM / APIC Sync**: Gated Preview.
-    - [ ] **Import from AWS**: Research phase.
+    - [x] :white_check_mark: **APIM / APIC Integration**: Public Preview.
+    - [x] :white_check_mark: **Integration with AWS**: Public Preview.
     - [ ] **Multiple spec support**: Research phase.
+    - [ ] **Azure Functions Integration**: Research phase.
 - <ins>**Governance**</ins>
+    - [x] :white_check_mark: **Increase linting limit for Standard**: Released.
+    - [x] :white_check_mark: **Execution History - API details**: Released.
+    - [x] :white_check_mark: **VS Code - GitHub Copilot for Azure Integration**: Released.
     - [x] :white_check_mark: **Managed API Analysis**: Public Preview.
-    - [x] :white_check_mark: **API Analysis Dashboard**: Public Preview.
-    - [ ] **Increase linting limit for Standard**: In development.
-    - [ ] **Execution History - API details**: In development.
-    - [ ] **VS Code - Compliant openapi spec generation**: In development.
-    - [ ] **VS Code - Copilot for Azure integration**: In development.
+    - [x] :white_check_mark: **API Analysis Dashboard**: Public Preview. 
+    - [ ] **Managed Linting - AsyncAPI support**: In Development.
+    - [ ] **Support for multiple linting rules -  API Governance Profiles**: In Development.
+
 - <ins>**Discover & Consume**</ins>
-    - [ ] **APIC to APIM deployment**: Research phase.
-    - [ ] **API Center Portal hosting support evaluation**: Research phase.
+    - [ ] **Managed APIC Portal**: In Development.
+    - [ ] **API Visibility in APIC Portal**: Research phase.
 
 ## Next
 - <ins>**Inventory**</ins>
-    - [ ] Azure Functions integration
-    - [ ] Import from Apigee
+    - [ ] API Access Management (APIM Only)
+    - [ ] Deployment Support APIC to APIM
+    - [ ] Integration with Apigee
+    - [ ] Integration with Azure App Service
 - <ins>**Governance**</ins>
-    - [ ] Enable search and filtering API Analysis
-    - [ ] Managed Linting - AsyncAPI support
     - [ ] Download API Analysis Report
+    - [ ] Inventory Analysis & AI-Powered API Duplicate Detection 
+    - [ ] API Drift Detection
+    - [ ] Breaking Change Detection
+    - [ ] Governance Recommendation Engine
 - <ins>**Discover & Consume**</ins>
-    - [ ] API's visibility concept via data plane
+    - [ ] Semantic Search Support
     - [ ] Filtering and searching based on metadata in APIC Portal
-    - [ ] API Center Portal Starter-Kit improvements - one-click deployment
+    - [ ] API Grouping and Granting Access
+    - [ ] APIC Portal Chatbot
 
-## Later
+## Future
 - <ins>**Inventory**</ins>
-    - [ ] App Service integration
-    - [ ] Source control: GitHub repository integration
+    - [ ] Integration Mulesoft
+    - [ ] Integration Source control: GitHub repository
+    - [ ] Integration Source control: Azure DevOps
 - <ins>**Governance**</ins>
-    - [ ] Breaking change detection
-    - [ ] Managed linting - API governance profiles
-    - [ ] Missing metadata dashboard
-    - [ ] Missing API spec dashboard
-    - [ ] API health check
+    - [ ] API dependencies
+    - [ ] Usage monitoring
 - <ins>**Discover & Consume**</ins>
-    - [ ] Get API Access
-    - [ ] Semantic search
-    - [ ] Backstage plugin
+    - [ ] WordPress Plugin
+    - [ ] Backstage Plugin
 
 
 ## How to provide feedback
