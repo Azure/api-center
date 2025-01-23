@@ -68,8 +68,8 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 ## Now
 - <ins>**Inventory**</ins>
     - [x] :white_check_mark: **GitHub Actions support**: Released.
-    - [x] :white_check_mark: **APIM / APIC Sync**: Public Preview.
-    - [x] :white_check_mark: **Import from AWS**: Public Preview.
+    - [x] :white_check_mark: **APIM / APIC Integration**: Public Preview.
+    - [x] :white_check_mark: **Integration with AWS**: Public Preview.
     - [ ] **Multiple spec support**: Research phase.
     - [ ] **Azure Functions Integration**: Research phase.
 - <ins>**Governance**</ins>
