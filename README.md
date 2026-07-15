@@ -62,7 +62,7 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 ## Roadmap
 
 **FY27 Q1**
-1. Assessments for plugins
+1. Assessments for plugins: Extends quality and compliance assessments beyond skills and agents to cover plugins ensuring consistent policy enforcement across the full AI/API estate. This closes governance gaps as organizations scale adoption of new asset types, giving teams confidence that every asset — regardless of type — meets the same compliance bar.
 
 **FY27 Q2**
 1. Unified portal across APIM/APIC: One harmonized portal across API platform
