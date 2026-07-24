@@ -61,14 +61,11 @@ In today’s API-first digital ecosystem, organizations are challenged with an e
 
 ## Roadmap
 
-**FY27 Q1**
-1. Assessments for plugins
-
-**FY27 Q2**
+**CY26 Q4**
 1. Unified portal across APIM/APIC: One harmonized portal across API platform
 2. Private link for APIC data plane: Keeps all traffic to the API Center portal and dataplane entirely within your private network via private endpoints, ensuring catalog access and API interactions never traverse the public internet. This meets strict compliance requirements and reduces the attack surface for sensitive enterprise AI workloads.
 
-**FY27 Q3**
+**CY27 Q1**
 1. Restrict access to specific APIs/AI assets based on user/group configuration: Control who can view, register, and manage catalog assets through fine-grained role-based access control (RBAC) powered by Microsoft Entra ID, assignable at the resource, API, or environment level. This enforces least-privilege access — ensuring developers see only relevant assets while administrators retain full governance over the catalog.
 
 > :memo: **Note**: Please note that this roadmap is a living document and may be updated as priorities shift and new information becomes available. We appreciate your understanding and flexibility as we strive to deliver the best possible outcomes
